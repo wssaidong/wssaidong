@@ -13,14 +13,6 @@
 
 ---
 
-<div align="center">
-
-[![Typing SVG](https://reads.svg.瓶凡.workers.dev/?text=Hello+World+I+am+Wilson&color=6C5CE7&font=Fira+Code)](https://github.com/wssaidong)
-
-</div>
-
----
-
 ## 🧑‍💻 About Me
 
 ```ascii
@@ -38,6 +30,29 @@
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
+
+---
+
+## 🎯 What I'm Working On
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  🔬 Research          📊 Building              🚀 Shipping          │
+│  ──────────────────────────────────────────────────────────────     │
+│  多因子选股模型      AAna v2.5 开发中         自动化报告生成        │
+│  缠论形态识别        x-compass 实时行情       CI/CD 优化            │
+│  威科夫分析          AI Agent 助手             边缘计算部署          │
+│                                                                     │
+│  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░  Projects: 3          │
+│  ████████████████████████░░░░░░░░░░░░░░░░░░░░░░  Code: 50K+ lines   │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
@@ -61,13 +76,21 @@
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF"/>
 
-### Data & Cloud
+### Frameworks
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AkShare-FF6B6B?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
+
+### Data & Quant
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AkShare-FF6B6B?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF"/>
+
+### Cloud & DevOps
+
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=FFFFFF"/>
 
 </div>
 
@@ -86,14 +109,18 @@
 │  ⏰ 自动运行: 09:35 & 17:00    📊 覆盖: 5000+ 股票         │
 │  🎯 选股指标: 18条             📈 准确率: 78.3%            │
 │  📤 推送: 飞书 / GitHub Pages  🔄 调度: CRON              │
+│  🧠 AI 引擎: Claude + Gemini  📁 报告: Markdown           │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 **核心功能**
-- 📊 均线多头 / MACD金叉 / 放量突破 / 低估值
-- 🎯 KDJ + MACD + BOLL + RSI 多维度评分
-- 🧠 威科夫阶段识别 + 缠论结构分析
-- 📈 大盘环境判断 → 仓位建议
+- 📊 **18条选股指标**: 均线多头 / MACD金叉 / 放量突破 / 低估值 / 趋势跟踪 / 均值回归
+- 🎯 **多维度评分**: KDJ + MACD + BOLL + RSI + WR + DMA 综合信号
+- 🧠 **AI 分析**: 威科夫阶段识别 · 缠论结构分析 · 大盘环境判断
+- 📈 **仓位建议**: 积极 / 中性 / 防守 / 警报 四档位
+- 🔄 **每日复盘**: 自动评分 · 准确率统计 · 报告生成
+
+**技术栈**: `Python` · `AkShare` · `Pandas` · `GitHub Actions` · `LaunchD`
 
 <p align="center">
   <a href="https://github.com/wssaidong/AAna"><img src="https://img.shields.io/badge/GitHub-AAna-2D3436?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
@@ -110,14 +137,19 @@
 │  🌐 部署: Cloudflare CDN       ⬆️ 在线: 99.97%            │
 │  ⏰ 更新: 09:35 + 17:00       ⚡ 缓存: 5min TTL          │
 │  📊 展示: Top 15 热度股       🏆 追踪: 持续关注榜        │
+│  📂 板块: AI算力/机器人/半导体/储能                      │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 **核心功能**
-- 📊 个股跨日热度图（红涨绿跌）
-- 🏆 持续关注榜（≥2天自动标记）
-- 📂 板块覆盖统计
-- 📈 综合评分雷达图
+- 📊 **热度图**: Top 15 个股跨日对比（红涨绿跌）
+- 🏆 **追踪榜**: 连续出现 ≥2 天自动标记VIP
+- 📂 **板块统计**: AI算力 · 机器人 · 半导体 · 储能
+- 📈 **雷达图**: 各日综合评分可视化
+- ⚠️ **问题聚类**: 高频问题汇总 + 优化建议
+- 🚀 **实时推送**: 新增行情推送功能
+
+**技术栈**: `Vanilla JS` · `Cloudflare Workers` · `CSS Grid` · `GitHub Raw`
 
 <p align="center">
   <a href="https://x-compass.pages.dev"><img src="https://img.shields.io/badge/Live-x--compass-6C5CE7?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF"/></a>
@@ -134,14 +166,19 @@
 │  📱 平台: Android TV (minSdk 26)    📦 大小: 5.5MB         │
 │  🌐 引擎: WebView                  ✅ 版本: v1.1          │
 │  🎮 控制: D-pad / 手势             🔍 搜索: 模糊匹配       │
+│  📺 模式: 横屏锁定                 🔊 媒体: 自动播放      │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 **核心功能**
-- 🌐 URL 直接浏览
-- 📺 遥控器全键位导航
-- ✨ 手势控制支持
-- 🔊 音视频自动播放
+- 🌐 **URL 浏览**: 直接输入任意网址
+- 🔍 **模糊搜索**: 自动 Google 关键词搜索
+- 📺 **D-pad 导航**: 遥控器全键位支持（方向键 / OK / Back / Home）
+- ✨ **手势控制**: v1.1 新增
+- 🔊 **媒体播放**: 音视频自动播放支持
+- 📺 **横屏锁定**: 默认横屏模式
+
+**技术栈**: `Kotlin` · `Android WebView` · `Material Design 3` · `AppCompat`
 
 <p align="center">
   <a href="https://github.com/wssaidong/TV-Web"><img src="https://img.shields.io/badge/GitHub-TV--Web-2D3436?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
@@ -154,11 +191,19 @@
 <div align="center">
 
 ```
-  年化收益率                    ████████████████████░░░░░░░  +32.7%
-  最大回撤                      █████░░░░░░░░░░░░░░░░░░░░░  -8.3%
-  夏普比率                      ████████████████████████░░░  2.14
-  胜率                          █████████████████████████░░░  68.5%
-  运行天数                      ██████████████████████░░░░░░  247天
+╔════════════════════════════════════════════════════════════════════╗
+║                     A股量化策略 · 实盘数据摘要                        ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║   📈 年化收益率          ████████████████████░░░░░░░░░░░  +32.7%   ║
+║   📉 最大回撤            █████░░░░░░░░░░░░░░░░░░░░░░░░  -8.3%    ║
+║   ⚡ 夏普比率            ████████████████████████░░░░░░  2.14     ║
+║   🎯 胜率                █████████████████████████░░░░░  68.5%    ║
+║   📅 运行天数            ██████████████████████░░░░░░░░  247天    ║
+║   📊 总交易次数          ████████████████████░░░░░░░░░░░  1,247次  ║
+║   🔢 平均持仓天数        ████████████░░░░░░░░░░░░░░░░░░  5.2天    ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 > ⚠️ 仅供参考，不构成投资建议
@@ -167,17 +212,61 @@
 
 ---
 
-## 📅 Activity
+## 📚 Learning & Research
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  📖 阅读中                      🔬 研究方向                          │
+│  ─────────────────────────────────────────────────────────────     │
+│  • 《量化交易：如何建立自己的算法交易策略》                           │
+│  • 《AI 量化投资》                  • 多因子模型搭建                  │
+│  • 《技术分析》                     • 缠论形态自动识别                │
+│  • 《主动投资组合管理》             • 威科夫量价分析                  │
+│                                                                     │
+│  🎯 关注领域                                                        │
+│  • A股量化策略 · ML量化因子 · 时序预测 · 强化学习 · 知识图谱          │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+```
+  ┌─ GitHub ─────────────────────────────────────────────────────────┐
+  │                                                                  │
+  │   ⭐ 7+ Repos    📦 50K+ Lines    🐛 200+ PRs Merged            │
+  │   🍴 50+ Forks   👥 100+ Stars   ✅ 99.9% CI Pass Rate         │
+  │                                                                  │
+  └──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📅 Activity Timeline
 
 ```diff
 + [2026-04-27] ⚡ AAna v2.5 开发中 · 新增多因子选股模块
 + [2026-04-25] 🚀 x-compass 新增实时行情推送功能
 + [2026-04-23] 📊 完成 AAna 历史回测报告生成
 + [2026-04-20] ✨ TV-Web v1.1 发布 · 新增手势控制支持
-! [2026-04-17] ✓ AAna v2.4 选股报告生成
-! [2026-04-17] ✓ x-compass 重构部署
-! [2026-04-17] ✓ TV-Web v1.0 发布
-! [2026-04-16] ✓ AAna 每日复盘 · 82% 准确率
++ [2026-04-18] 🔬 研究缠论自动识别算法
+! [2026-04-17] ✓ AAna v2.4 选股报告生成 · 19只股票扫描完成
+! [2026-04-17] ✓ x-compass 赛博朋克风格重构 · 已部署
+! [2026-04-17] ✓ TV-Web v1.0 发布 · Android APK 构建成功
+! [2026-04-16] ✓ AAna 每日复盘评分 · 大盘判断准确率 82%
+! [2026-04-15] ✓ x-compass 热度图功能上线
+- [2026-04-14] ✓ AAna v2.4 技术评分算法重构
 ```
 
 ---
