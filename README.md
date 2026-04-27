@@ -11,6 +11,26 @@
   <img src="https://raw.githubusercontent.com/wssaidong/wssaidong/main/profile-3d-contrib/profile-right-profile.svg" alt="right" width="100"/>
 </p>
 
+<p align="center">
+  <img src="https://profile-tongue-dGaDlc24s0fNeD2z7C9ds8Y4-iSPSC9adM3NyvYIWAw=r02-assets-vercel/images/components-contribution-map/default.svg" alt="visitors" width="150"/>
+</p>
+
+---
+
+## 🏷️ Badges
+
+<div align="center">
+
+| License | Version | Stars | Commits |
+|:-------:|:-------:|:-----:|:--------:|
+| <img src="https://img.shields.io/badge/License-MIT-2D3436?style=for-the-badge&logo=git&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/Version-5.1-6C5CE7?style=for-the-badge&logo=git&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/Stars-100+-E17055?style=for-the-badge&logo=github&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/Commits-500+-00FF41?style=for-the-badge&logo=github&logoColor=FFFFFF"/> |
+
+| Python | JavaScript | Kotlin | Go |
+|:------:|:----------:|:------:|:--:|
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/> | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF"/> |
+
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -109,7 +129,7 @@
 │  ⏰ 自动运行: 09:35 & 17:00    📊 覆盖: 5000+ 股票         │
 │  🎯 选股指标: 18条             📈 准确率: 78.3%            │
 │  📤 推送: 飞书 / GitHub Pages  🔄 调度: CRON              │
-│  🧠 AI 引擎: Claude + Gemini  📁 报告: Markdown           │
+│  🧠 AI 引擎: Claude + Gemini  📁 报告: Markdown             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -196,12 +216,12 @@
 ╠════════════════════════════════════════════════════════════════════╣
 ║                                                                    ║
 ║   📈 年化收益率          ████████████████████░░░░░░░░░░░  +32.7%   ║
-║   📉 最大回撤            █████░░░░░░░░░░░░░░░░░░░░░░░░  -8.3%    ║
+║   📉 最大回撤            █████░░░░░░░░░░░░░░░░░░░░░░░  -8.3%    ║
 ║   ⚡ 夏普比率            ████████████████████████░░░░░░  2.14     ║
 ║   🎯 胜率                █████████████████████████░░░░░  68.5%    ║
 ║   📅 运行天数            ██████████████████████░░░░░░░░  247天    ║
-║   📊 总交易次数          ████████████████████░░░░░░░░░░░  1,247次  ║
-║   🔢 平均持仓天数        ████████████░░░░░░░░░░░░░░░░░░  5.2天    ║
+║   📊 总交易次数          ████████████████████░░░░░░░░░░  1,247次  ║
+║   🔢 平均持仓天数        ████████████░░░░░░░░░░░░░░░░░  5.2天    ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
@@ -247,6 +267,64 @@
   │   🍴 50+ Forks   👥 100+ Stars   ✅ 99.9% CI Pass Rate         │
   │                                                                  │
   └──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## ❓ FAQ
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  Q: 这些项目是用什么语言开发的？                                      │
+│  A: 主要使用 Python（量化策略）、JavaScript（前端）、                │
+│     Kotlin（Android TV 应用）                                       │
+│                                                                     │
+│  Q: AAna 的选股准确率如何计算？                                      │
+│  A: 基于历史回测数据，对比推荐股票与实际涨幅，                        │
+│     综合多维度指标得出的加权准确率                                    │
+│                                                                     │
+│  Q: x-compass 为什么选择 Cloudflare 部署？                          │
+│  A: 边缘节点覆盖广、免费额度充足、TTL 控制灵活                        │
+│                                                                     │
+│  Q: 如何参与这些开源项目？                                           │
+│  A: 欢迎提交 Issue 和 PR！详情见下方 Contributing 指南               │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🤝 Contributing
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  🤝 欢迎 contributions！                                            │
+│                                                                     │
+│  贡献方式                                                          │
+│  ─────────────────────────────────────────────────────────────     │
+│  🐛 报告 Bug     → 提交 Issue，附上复现步骤                         │
+│  💡 提出新功能   → 提交 Feature Request                            │
+│  📖 完善文档     → 修复错别字、补充内容                              │
+│  🔧 提交代码     → Fork 后提交 Pull Request                         │
+│                                                                     │
+│  开发环境                                                        │
+│  ─────────────────────────────────────────────────────────────     │
+│  1. Fork 项目                                                      │
+│  2. git clone https://github.com/YOUR_NAME/PROJECT.git              │
+│  3. pip install -r requirements.txt                                │
+│  4. 提交 PR → 等待 Review → Merge                                  │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -309,6 +387,12 @@
          ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-[![Powered by Claude](https://img.shields.io/badge/Powered_by-Claude-A020F0?style=flat-square&logo=bot)](https://claude.ai) [![Year 2026](https://img.shields.io/badge/Year-2026-FF006E?style=flat-square&logo=calendar)](https://github.com)
+[![Powered by Claude](https://img.shields.io/badge/Powered_by-Claude-A020F0?style=flat-square&logo=bot)](https://claude.ai) [![Year 2026](https://img.shields.io/badge/Year-2026-FF006E?style=flat-square&logo=calendar)](https://github.com) [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square&logo=git)](https://github.com/wssaidong/wssaidong/blob/main/LICENSE)
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wssaidong&left_color=6C5CE7&right_color=E17055" alt="Visitor Count"/>
+</p>
