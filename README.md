@@ -1,7 +1,7 @@
-# <samp>&lt;/&gt;</samp> wssaidong
+# <samp>&lt;/&gt;</samp> Wilson
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=800&color=6C5CE7&background=FFFFFF00&center=true&vCenter=true&lines=Hello.+I+am+wssaidong+%E2%9C%A8+Quant+Developer+%E2%9C%A8+AI+Engineer" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=800&color=6C5CE7&background=FFFFFF00&center=true&vCenter=true&lines=Hello.+I+am+Wilson+%E2%9C%A8+Quant+Developer+%E2%9C%A8+AI+Engineer" alt="typing" />
 </p>
 
 ---
@@ -23,8 +23,8 @@
 ```
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ╭──────╮      👋 你好！我是蔡少东                          │
-    │   │ ◕‿◕ │      来自深圳的全栈开发者 & 量化工程师              │
+    │   ╭──────╮      👋 你好！我是 Wilson                            │
+    │   │ ◕‿◕ │      热爱技术 & 量化策略 & 开源项目                │
     │   ╰──────╯      热衷于 AI 自动化 · A股量化 · 开源项目          │
     │                                                             │
     │   🌐 深圳 · 中国          💼 Quant Developer                  │
@@ -198,7 +198,7 @@ CDN节点      🌐 Cloudflare Edge
     │                                                         │
     │   最强大的系统，是在你睡觉时还在运行的那个。             │
     │                                                         │
-    │   ✨ — wssaidong                                        │
+    │   ✨ — Wilson                                        │
     │                                                         │
     └─────────────────────────────────────────────────────────┘
 ```
