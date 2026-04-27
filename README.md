@@ -1,216 +1,140 @@
 # <samp>&lt;/&gt;</samp> wssaidong
 
-<h1 align="center">
-  <a href="https://github.com/wssaidong">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=800&color=00F5FF&background=0A0E1A00&center=true&vCenter=true&lines=System.online+%E2%80%A2+CYBER_DECK_ACTIVE+%E2%80%A2+0+errors+%E2%80%A2+wssaidong@mainframe" alt="terminal" />
-  </a>
-</h1>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wssaidong/wssaidong/main/profile-3d-contrib/profile-year-ring.svg" alt="3d-contrib" width="300"/>
-  <img src="https://raw.githubusercontent.com/wssaidong/wssaidong/main/profile-3d-contrib/profile-middle.svg" alt="middle" width="300"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=4000&pause=800&color=6C5CE7&background=FFFFFF00&center=true&vCenter=true&lines=Hello.+I+am+wssaidong+%E2%9C%A8+Quant+Developer+%E2%9C%A8+AI+Engineer" alt="typing" />
 </p>
+
+---
 
 <div align="center">
 
-# ⭑ CYBER DECK v3.0 ⭑
-
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-║  ▓                                                                       ▓  ║
-║  ▓   ██████╗ ██╗      █████╗ ██╗  ██╗██╗  ██╗   ██╗ ██████╗ ██╗  ██╗   ██╗  ▓  ║
-║  ▓   ██╔══██╗██║     ██╔══██╗╚██╗██╔╝╚██╗██╔╝   ██║ ██╔════╝ ██║  ╚██╗ ██╔╝  ▓  ║
-║  ▓   ██████╔╝██║     ███████║ ╚███╔╝  ╚███╔╝    ██║ ██║  ███╗██║   ╚████╔╝   ▓  ║
-║  ▓   ██╔══██╗██║     ██╔══██║ ██╔██╗  ██╔██╗    ██║ ██║   ██║██║    ╚██╔╝    ▓  ║
-║  ▓   ██║  ██║███████╗██║  ██║██╔╝ ██╗██╔╝ ██╗   ██║ ╚██████╗╚██║     ██║     ▓  ║
-║  ▓   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  ╚═════╝ ╚═╝     ╚═╝     ▓  ║
-║  ▓                                                                       ▓  ║
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+    ✦ ⋅ ◇ ⋅ ✦ ⋅ ◇ ⋅ ✦ ⋅ ◇ ⋅ ✦ ⋅ ◇ ⋅ ✦
 ```
 
 </div>
 
 ---
 
-## ⚡ System Status
-
-<p align="center">
-
-| <img src="https://img.shields.io/badge/NODE_ONLINE-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=0A0E1A"/> | <img src="https://img.shields.io/badge/BUILD-PASSING-00F5FF?style=for-the-badge&logo=github-actions&logoColor=00F5FF&labelColor=0A0E1A"/> | <img src="https://img.shields.io/badge/AI_INTEGRATED-A020F0?style=for-the-badge&logo=bot&logoColor=A020F0&labelColor=0A0E1A"/> | <img src="https://img.shields.io/badge/QUANT_MODE-ACTIVE-FF006E?style=for-the-badge&logo=chart&logoColor=FF006E&labelColor=0A0E1A"/> |
-|:---:|:---:|:---:|:---:|
-
-</p>
-
----
-
-## 🎮 Identity Terminal
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  ╔═══════════════════════════════════════════════════════════════════════╗  │
-│  ║  > OPERATOR.........: wssaidong / 蔡少东                            ║  │
-│  ║  > CLASS...........: Quant Developer · AI Engineer                ║  │
-│  ║  > LOCATION........: Shenzhen, China  📍                          ║  │
-│  ║  > SPECIALIZATION...: A-Share Quant · AI Automation                ║  │
-│  ║  > AI_MODULES......: 🤖 Claude  ·  🔮 Gemini                        ║  │
-│  ║  > CORE_PROTOCOL...: "Build in public, ship in silence"           ║  │
-│  ╚═══════════════════════════════════════════════════════════════════════╝  │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📊 Dev Progress Dashboard
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wssaidong/wssaidong/main/profile-3d-contrib/profile-left-profile.svg" alt="left" width="180"/>
-  <img src="https://raw.githubusercontent.com/wssaidong/wssaidong/main/profile-3d-contrib/profile-right-profile.svg" alt="right" width="180"/>
-</p>
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║  ⭐ ACTIVE MISSIONS                                                         ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║                                                                             ║
-║    ┌────────────┐     ┌────────────┐     ┌────────────┐     ┌────────────┐  ║
-║    │   AAna     │ ──► │  x-compass │ ──► │   TV-Web   │ ──► │ AI-Agent   │  ║
-║    │   v2.5     │     │   LIVE     │     │   v1.1     │     │   v0.3     │  ║
-║    │ ████░░░░░ │     │ ██████████ │     │ ████████░░ │     │ ████░░░░░ │  ║
-║    │   75%      │     │   100%     │     │   85%      │     │   40%      │  ║
-║    └────────────┘     └────────────┘     └────────────┘     └────────────┘  ║
-║                                                                             ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🔧 Tech Arsenal
+## 🎀 About Me
 
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════════════════════════════╗
-║  LANGUAGES   ████████████████████████████░░░░░░░░░░░░  Python / JS / Kotlin
-║  FRAMEWORKS  ██████████████████░░░░░░░░░░░░░░░░░░░░  React / Flask / FastAPI
-║  DATA        ████████████████░░░░░░░░░░░░░░░░░░░░░  Pandas · AkShare · MySQL
-║  CLOUD       ██████████████░░░░░░░░░░░░░░░░░░░░░░  Cloudflare Pages / Workers
-║  AI/LLM      ███████████████████████████████░░░░░░  Claude · Gemini · GPT-4
-║  QUANT       ████████████████████████░░░░░░░░░░░░░  A-Share · 技术分析 · 量化策略
-║  MOBILE      ████████████░░░░░░░░░░░░░░░░░░░░░░░  Android · Kotlin · WebView
-║  DEVOPS      ████████████░░░░░░░░░░░░░░░░░░░░░░░  Docker · GitHub Actions · Linux
-╚════════════════════════════════════════════════════════════════════════════╝
+    ┌─────────────────────────────────────────────────────────────┐
+    │                                                             │
+    │   ╭──────╮      👋 你好！我是蔡少东                          │
+    │   │ ◕‿◕ │      来自深圳的全栈开发者 & 量化工程师              │
+    │   ╰──────╯      热衷于 AI 自动化 · A股量化 · 开源项目          │
+    │                                                             │
+    │   🌐 深圳 · 中国          💼 Quant Developer                  │
+    │   🤖 Claude · Gemini      📈 年化 +32.7%                     │
+    │   🎯 信仰: "Build in public, ship in silence"               │
+    │                                                             │
+    └─────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🚀 Missions In Progress
+## 📊 Stats Garden
+
+<p align="center">
+
+| <img src="https://github-readme-stats.vercel.app/api?username=wssaidong&theme=react&bg_color=F8F9FA&title_color=6C5CE7&text_color=2D3436&icon_color=E17055&show_icons=true&count_private=true&hide_border=false&border_color=DFE6E9&custom_title=Garden+Stats" /> | <img src="https://streak-stats.demolab.com?user=wssaidong&theme=react&hide_border=true&fire=E17055&ring=6C5CE7&current_streak_label=2D3436&sideNums=2D3436" />
+
+</p>
+
+---
+
+## ✨ Tech Stack
+
+<div align="center">
+
+| Python | JavaScript | Kotlin |
+|:------:|:----------:|:------:|
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/> | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF"/> |
+
+| React | Flask | FastAPI |
+|:-----:|:-----:|:-------:|
+| <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000"/> | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/> |
+
+| AkShare | Pandas | Cloudflare |
+|:-------:|:------:|:----------:|
+| <img src="https://img.shields.io/badge/AkShare-FF6B6B?style=for-the-badge&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/> | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF"/> |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <br>
 
-<details open>
-<summary><img src="https://img.shields.io/badge/AAna-00FF41?style=flat-square&logo=Python&logoColor=00FF41&labelColor=0A0E1A"/> AAna — A股智能选股系统 v2.5</summary>
+### 🌟 AAna — A股智能选股系统 v2.5
 
-> **每天 09:35 自动运行** · 全市场扫描 + 技术评分 + 复盘报告
+> *每天 09:35 自动运行 · 全市场扫描 + 技术评分 + 复盘报告*
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  ┌─ SYSTEM ─────────────────────────────────────────────────────────────┐ ║
-║  │  [■□□□□□□□□□] SCAN..........: ONLINE                                  │ ║
-║  │  [■■■■■■■■■□] ACCURACY.....: 78.3%                                   │ ║
-║  │  [■■■■■■■□□□] COVERAGE....: 全市场扫描 · 5000+ 股票                  │ ║
-║  │  [■■■■■■■■■□] REPORTS.....: 每日 2份 (选股 + 复盘)                   │ ║
-║  │  [■■■■■■■■■□] DELIVERY....: 飞书推送 / GitHub Pages                  │ ║
-║  │  [■■■■■■■■■□] SCHEDULE....: CRON · 09:35 & 17:00                    │ ║
-║  └───────────────────────────────────────────────────────────────────────┘ ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+健康度        ██████████████████░░░░░░░░░░  78.3%
+覆盖市场      全市场扫描 · 5000+ 股票
+报告生成      每日 2份 (选股 + 复盘)
+推送渠道      飞书推送 / GitHub Pages
+调度时间      ⏰ 09:35 & 17:00
 ```
 
 **核心功能：**
 - 📊 18条选股指标（均线多头 / MACD金叉 / 放量突破 / 低估值等）
 - 🎯 KDJ + MACD + BOLL + RSI 多维度信号评分
 - 🧠 威科夫阶段识别 + 缠论结构分析
-- 📈 大盘环境判断 → 仓位建议（积极/中性/防守/警报）
-- 🔄 每交易日晚 17:00 自动复盘评分
-- ⚡ **NEW: 多因子选股模块开发中**
+- 📈 大盘环境判断 → 仓位建议
 
-**技术栈:** `Python` · `AkShare` · `新浪财经` · `LaunchD` · `GitHub Actions`
-
-🔗 `github.com/wssaidong/AAna`
-
-</details>
+🔗 [github.com/wssaidong/AAna](https://github.com/wssaidong/AAna)
 
 <br>
 
-<details>
-<summary><img src="https://img.shields.io/badge/x--compass-00F5FF?style=flat-square&logo=cloudflare-pages&logoColor=00F5FF&labelColor=0A0E1A"/> x-compass — 周度选股看板</summary>
+### 🔮 x-compass — 周度选股看板
 
-> **24小时边缘部署** · 热度图 + 跨日对比 + 每日报告聚合
+> *24小时边缘部署 · 热度图 + 跨日对比 + 每日报告聚合*
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  ┌─ DEPLOYMENT ──────────────────────────────────────────────────────────┐ ║
-║  │  [■□□□□□□□□□] HOST..........: Cloudflare Pages CDN                   │ ║
-║  │  [■■■■■■■■■□] UPTIME.......: 99.97%                                  │ ║
-║  │  [■■■■■■■□□□] REFRESH......: 每日 09:35 + 17:00                      │ ║
-║  │  [■■■■■■■■■□] CACHE........: Edge · 5min TTL                         │ ║
-║  │  [■■■■■■■■■□] SSL..........: VALID · TLS 1.3                         │ ║
-║  │  [■■■■■■■■■□] DOMAIN.......: x-compass.pages.dev                     │ ║
-║  └───────────────────────────────────────────────────────────────────────┘ ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+部署状态      ██████████████████████████  99.97% uptime
+刷新时间      ⏰ 每日 09:35 + 17:00
+CDN节点      🌐 Cloudflare Edge
+缓存策略      ⚡ 5min TTL
+访问域名      x-compass.pages.dev
 ```
 
 **核心功能：**
-- 📊 Top 15 个股跨日热度图（红涨绿跌）
-- 🏆 持续关注榜（出现 ≥2 天自动标记）
-- 📂 板块覆盖统计（AI算力/机器人/半导体/储能）
-- 📈 各日综合评分雷达图
-- ⚠️ 高频问题聚类 + 优化建议汇总
-- 🚀 **NEW: 实时行情推送功能**
+- 📊 Top 15 个股跨日热度图
+- 🏆 持续关注榜（出现 ≥2 天标记）
+- 📂 板块覆盖统计
+- 📈 综合评分雷达图
 
-**技术栈:** `Vanilla JS` · `Cloudflare Workers` · `GitHub Raw` · `CSS Grid`
-
-🔗 `x-compass.pages.dev`
-
-</details>
+🔗 [x-compass.pages.dev](https://x-compass.pages.dev)
 
 <br>
 
-<details>
-<summary><img src="https://img.shields.io/badge/TV--Web-FF006E?style=flat-square&logo=Android&logoColor=FF006E&labelColor=0A0E1A"/> TV-Web — 电视浏览器 APK</summary>
+### 📺 TV-Web — 电视浏览器 APK
 
-> **Android TV 专用** · 遥控器 D-pad 优化 · 输入 URL 直接浏览
+> *Android TV 专用 · 遥控器优化 · 输入 URL 直接浏览*
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  ┌─ BUILD ──────────────────────────────────────────────────────────────┐ ║
-║  │  [■□□□□□□□□□] VERSION......: v1.1                                    │ ║
-║  │  [■■■■■■■■■□] PLATFORM....: Android TV (minSdk 26)                   │ ║
-║  │  [■■■■■■■□□□] SIZE........: 5.5MB                                   │ ║
-║  │  [■■■■■■■■■□] FEATURES....: URL输入 / D-pad / 全屏播放 / 手势控制     │ ║
-║  │  [■■■■■■■■■□] WEBVIEW.....: Android System WebView                    │ ║
-║  │  [■■■■■■■■■□] BUILD.......: SUCCESS · DEBUG SIGNED                  │ ║
-║  └───────────────────────────────────────────────────────────────────────┘ ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+版本          v1.1
+平台          Android TV (minSdk 26)
+安装包大小    5.5MB
+构建状态      ✅ SUCCESS
+签名          DEBUG BUILD
 ```
 
 **核心功能：**
-- 🌐 直接输入 URL 打开任意网页
-- 🔍 模糊搜索（自动 Google 搜索关键词）
-- ⬅️➡️ 前进/后退/刷新
-- 📺 遥控器全键位导航（D-pad / OK / Back）
-- 🔊 音视频自动播放支持
-- 📺 横屏模式锁定
-- ✨ **NEW: 手势控制支持**
+- 🌐 直接输入 URL 打开网页
+- 🔍 模糊搜索（Google 关键词）
+- 📺 遥控器全键位导航
+- ✨ 手势控制支持
 
-**技术栈:** `Kotlin` · `Android WebView` · `Material Design` · `AppCompat`
-
-🔗 `github.com/wssaidong/TV-Web`
-
-</details>
+🔗 [github.com/wssaidong/TV-Web](https://github.com/wssaidong/TV-Web)
 
 ---
 
@@ -219,17 +143,15 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                     📊 A股量化策略 · 实盘数据摘要                              ║
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║                                                                             ║
-║   📈 年化收益率      ████████████████████████░░░░░░░░░  +32.7%              ║
-║   📉 最大回撤       █████████░░░░░░░░░░░░░░░░░░░░░░░  -8.3%               ║
-║   ⚡ 夏普比率        ████████████████████████░░░░░░░░  2.14                 ║
-║   🎯 胜率           █████████████████████████████░░░  68.5%                ║
-║   📅 运行天数        ██████████████████████░░░░░░░░░  247 天               ║
-║                                                                             ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
+    ╔═══════════════════════════════════════════════════════╗
+    ║                                                       ║
+    ║   📈 年化收益率          +32.7%    ████████████████  ║
+    ║   📉 最大回撤            -8.3%     █████░░░░░░░░░░░  ║
+    ║   ⚡ 夏普比率            2.14      ██████████████░░░  ║
+    ║   🎯 胜率                68.5%     ███████████████░░  ║
+    ║   📅 运行天数            247天     ████████████░░░░░  ║
+    ║                                                       ║
+    ╚═══════════════════════════════════════════════════════╝
 ```
 
 > ⚠️ 仅供参考，不构成投资建议
@@ -238,126 +160,72 @@
 
 ---
 
-## 📊 Combat Stats
+## 🎯 Skills Radar
 
 <p align="center">
-
-| `wssaidong` Total Contributions | Streak Fire |
-|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=wssaidong&theme=transparent&bg_color=0A0E1A&title_color=00F5FF&text_color=00FF41&icon_color=FF006E&show_icons=true&count_private=true&hide_border=true&border_color=00F5FF&custom_title=Commits+All+Time" /> | <img src="https://streak-stats.demolab.com?user=wssaidong&theme=neon&hide_border=true&fire=FF006E&ring=00F5FF&current_streak_label=00FF41&sideNums=00FF41" /> |
-
-</p>
-
-<p align="center">
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                 LANGUAGE DISTRIBUTION                     │
-│  ████████████████████░░░░░░░░░░░░░░░░░░  Python        │
-│  ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  JavaScript   │
-│  ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Kotlin       │
-│  ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  Shell        │
-│  ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  HTML/CSS     │
-└──────────────────────────────────────────────────────────┘
-```
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wssaidong&theme=react&bg_color=F8F9FA&title_color=6C5CE7&text_color=2D3436&hide_border=false&border_color=DFE6E9&layout=compact&langs_count=8" alt="top-langs" width="500"/>
 </p>
 
 ---
 
-## 📅 Recent Activity
+## 📅 Activity Timeline
 
 <!-- START_ACTIVITY_FEED -->
-```r
-[2026-04-27] ⚡ AAna v2.5 开发中 · 新增多因子选股模块
-[2026-04-25] 🚀 x-compass 新增实时行情推送功能
-[2026-04-23] 📊 完成 AAna 历史回测报告生成
-[2026-04-20] ✨ TV-Web v1.1 发布 · 新增手势控制支持
-[2026-04-17] ✓ AAna v2.4 选股报告生成 · 19只股票扫描完成
-[2026-04-17] ✓ x-compass 赛博朋克风格重构 · 已部署
-[2026-04-17] ✓ TV-Web v1.0 发布 · Android APK 构建成功
-[2026-04-16] ✓ AAna 每日复盘评分 · 大盘判断准确率 82%
-[2026-04-15] ✓ github.com/wssaidong README 赛博朋克化
+```diff
++ [2026-04-27] ⚡ AAna v2.5 开发中 · 新增多因子选股模块
++ [2026-04-25] 🚀 x-compass 新增实时行情推送功能
++ [2026-04-23] 📊 完成 AAna 历史回测报告生成
++ [2026-04-20] ✨ TV-Web v1.1 发布 · 新增手势控制支持
+! [2026-04-17] ✓ AAna v2.4 选股报告生成 · 19只股票扫描完成
+! [2026-04-17] ✓ x-compass 重构 · 已部署
+! [2026-04-17] ✓ TV-Web v1.0 发布
+! [2026-04-16] ✓ AAna 每日复盘 · 准确率 82%
+- [2026-04-15] Initial commit
 ```
 <!-- END_ACTIVITY_FEED -->
 
 ---
 
-## 💬 Philosophy
+## 💬 Daily Quote
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║     ╭──────────────────────────────────────────────────────────╮          ║
-║     │                                                          │          ║
-║     │   "The best system is the one that runs while you sleep."│          ║
-║     │                                                          │          ║
-║     │   最强大的系统，是在你睡觉时还在运行的那个。               │          ║
-║     │                                                          │          ║
-║     ╰──────────────────────────────────────────────────────────╯          ║
-║                                                                          ║
-║                            — wssaidong's operating principle             ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+    ┌─────────────────────────────────────────────────────────┐
+    │                                                         │
+    │   "The best system is the one that runs while you      │
+    │    sleep."                                              │
+    │                                                         │
+    │   最强大的系统，是在你睡觉时还在运行的那个。             │
+    │                                                         │
+    │   ✨ — wssaidong                                        │
+    │                                                         │
+    └─────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🌐 Navigation Hub
+## 🌐 Connect With Me
 
 <div align="center">
 
-| <a href="https://caishaodong.blog"><img src="https://img.shields.io/badge/BLOG-caishaodong.blog-00FF41?style=for-the-badge&logo=ghost&logoColor=0A0E1A&labelColor=0A0E1A"/></a> | <a href="https://x-compass.pages.dev"><img src="https://img.shields.io/badge/DASHBOARD-x--compass-00F5FF?style=for-the-badge&logo=cloudflare&logoColor=0A0E1A&labelColor=0A0E1A"/></a> | <a href="https://github.com/wssaidong"><img src="https://img.shields.io/badge/GITHUB-wssaidong-00FF41?style=for-the-badge&logo=github&logoColor=0A0E1A&labelColor=0A0E1A"/></a> |
+| <a href="https://caishaodong.blog"><img src="https://img.shields.io/badge/Blog-caishaodong.blog-E17055?style=for-the-badge&logo=ghost&logoColor=FFFFFF"/></a> | <a href="https://x-compass.pages.dev"><img src="https://img.shields.io/badge/Dashboard-x--compass-6C5CE7?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF"/></a> | <a href="https://github.com/wssaidong"><img src="https://img.shields.io/badge/GitHub-wssaidong-2D3436?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a> |
 |:---:|:---:|:---:|
 
 </div>
 
 ---
 
-## ⚡ Contact Terminal
-
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║    ╭─────────────────────────────────────────────────────────────────╮   ║
-║    │  wssaidong@mainframe:~$ neofetch                                  │   ║
-║    │                                                                  │   ║
-║    │    >> EMAIL......: wssaidong@gmail.com                            │   ║
-║    │    >> BLOG......: caishaodong.blog                               │   ║
-║    │    >> GITHUB....: github.com/wssaidong                           │   ║
-║    │    >> LOCATION..: Shenzhen, Guangdong, China                   │   ║
-║    │    >> TIMEZONE..: Asia/Shanghai (CST, UTC+8)                      │   ║
-║    │                                                                  │   ║
-║    ╰─────────────────────────────────────────────────────────────────╯   ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
 <div align="center">
 
 ```
- ██████╗ ██╗      █████╗ ██╗  ██╗██╗  ██╗   ██╗ ██████╗ ██╗  ██╗   ██╗███████╗
- ██╔══██╗██║     ██╔══██╗╚██╗██╔╝╚██╗██╔╝   ██║ ██╔════╝ ██║  ╚██╗ ██╔╝██╔════╝
- ███████║██║     ███████║ ╚███╔╝  ╚███╔╝    ██║ ██║  ███╗██║   ╚████╔╝ ███████╗
- ██╔══██║██║     ██╔══██║ ██╔██╗  ██╔██╗    ██║ ██║   ██║██║    ╚██╔╝  ╚════██║
- ██║  ██║███████╗██║  ██║██╔╝ ██╗██╔╝ ██╗   ██║ ╚██████╗╚██║     ██║   ███████║
- ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  ╚═════╝ ╚═╝     ╚═╝   ╚══════╝
+    ✦ ⋅ ◇ ⋅ ✦ ⋅ ◇ ⋅ ✦ ⋅ ◇ ⋅ ✦ ⋅ ◇ ⋅ ✦
 ```
 
-<p>
+<img src="https://img.shields.io/badge/Powered%20by-Claudes-A020F0?style=flat-square&logo=bot&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/AI-Claude%203.7-00F5FF?style=flat-square&logo=anthropic&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Year-2026-FF006E?style=flat-square&logo=calendar&logoColor=FFFFFF"/>
 
-| <img src="https://img.shields.io/badge/POWERED_BY-Claudes-A020F0?style=flat-square&logo=bot&logoColor=0A0E1A&labelColor=0A0E1A"/> | <img src="https://img.shields.io/badge/AI_MODEL-Claude_3.7-00F5FF?style=flat-square&logo=anthropic&logoColor=00F5FF&labelColor=0A0E1A"/> | <img src="https://img.shields.io/badge/BUILD_YEAR-2026-FF006E?style=flat-square&logo=calendar&logoColor=FF006E&labelColor=0A0E1A"/> | <img src="https://img.shields.io/badge/STATUS-BUILDING-00FF41?style=flat-square&logo=activity&logoColor=00FF41&labelColor=0A0E1A"/> |
-
-</p>
-
-<p align="center">
-  <sub><i>// Built in public · Shipped in silence · Optimized forever</i></sub>
-</p>
+<p><i>// Built in public · Shipped in silence · Optimized forever</i></p>
 
 </div>
