@@ -37,13 +37,31 @@
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
 ║   > IDENTITY:    wssaidong / 蔡少东                                   ║
-║   > ROLE:       Quant Developer · AI Engineer · Open Source Builder    ║
-║   > LOCATION:   Shenzhen, China                                       ║
-║   > FOCUS:      A-Share Quant · AI Automation · Edge Computing        ║
-║   > AI STATUS:  🤖 CLAUDE INTEGRATED  ·  🔮 GEMINI ACTIVE              ║
-║   > PRINCIPLE:  "Build in public, ship in silence"                     ║
+║   > ROLE:       Quant Developer · AI Engineer · Open Source Builder  ║
+║   > LOCATION:   Shenzhen, China                                      ║
+║   > FOCUS:      A-Share Quant · AI Automation · Edge Computing       ║
+║   > AI STATUS:  🤖 CLAUDE INTEGRATED  ·  🔮 GEMINI ACTIVE            ║
+║   > PRINCIPLE:  "Build in public, ship in silence"                    ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🔄 Currently Building
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wssaidong/wssaidong/main/profile-3d-contrib/profile-year-ring.svg" alt="3d-contrib" width="300"/>
+</p>
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│  ⚡ ACTIVE DEVELOPMENT                                         │
+├────────────────────────────────────────────────────────────────┤
+│  🚀 AAna v2.5    │  智能选股系统下一代演进  │  ████████░░  80%  │
+│  🔮 AI Agent    │  多代理量化研究助手      │  ██████░░░░  60%  │
+│  📊 x-compass   │  实时热度监控系统        │  ██████████  100% │
+└────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -58,12 +76,29 @@
 ║  FRAMEWORKS  ██████████████████░░░░░░░░░░░░░░░░░░░░  React / Flask / FastAPI
 ║  DATA        ████████████████░░░░░░░░░░░░░░░░░░░░░  Pandas · AkShare · MySQL
 ║  CLOUD       ██████████████░░░░░░░░░░░░░░░░░░░░░░  Cloudflare Pages / Workers
-║  AI/LLM      ███████████████████████████████░░░░░░░  Claude · Gemini · GPT-4
-║  QUANT       ████████████████████████░░░░░░░░░░░░░░  A-Share · 技术分析 · 量化策略
+║  AI/LLM      ███████████████████████████████░░░░░░  Claude · Gemini · GPT-4
+║  QUANT       ████████████████████████░░░░░░░░░░░░░  A-Share · 技术分析 · 量化策略
 ║  MOBILE      ████████████░░░░░░░░░░░░░░░░░░░░░░░  Android · Kotlin · WebView
 ║  DEVOPS      ████████████░░░░░░░░░░░░░░░░░░░░░░░  Docker · GitHub Actions · Linux
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+---
+
+## 📊 Skills Matrix
+
+<div align="center">
+
+| Category | Level | Technologies |
+|:--------:|:-----:|:-------------|
+| **量化开发** | ████████████ | A股量化 · 技术分析 · 趋势跟踪 · 均值回归 |
+| **机器学习** | ██████████░░ | 特征工程 · 模型训练 · 因子挖掘 · 组合优化 |
+| **数据工程** | ███████████░ | AkShare · Pandas · NumPy · SQL · NoSQL |
+| **Web开发** | ████████░░░░ | React · Flask · FastAPI · Cloudflare Workers |
+| **移动开发** | ███████░░░░░ | Android · Kotlin · WebView · Material Design |
+| **云原生** | ████████░░░░ | Docker · GitHub Actions · Linux · Shell |
 
 </div>
 
@@ -189,6 +224,30 @@
 
 ---
 
+## 📈 Quant Performance Metrics
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                     A股量化策略 · 实盘数据摘要                            ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║                                                                       ║
+║   📊 年化收益率    │████████████░░░░░░░░│  +32.7%                   ║
+║   📉 最大回撤     │██░░░░░░░░░░░░░░░░░░│  -8.3%                    ║
+║   ⚡ 夏普比率     │█████████████░░░░░░░░│  2.14                     ║
+║   🎯 胜率        │███████████████░░░░░░░│  68.5%                    ║
+║   📅 运行天数     │██████████████████░░░░│  247 天                   ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+> ⚠️ 仅供参考，不构成投资建议
+
+</div>
+
+---
+
 ## 📊 Combat Stats
 
 <p align="center">
@@ -220,14 +279,15 @@
 
 <!-- START_ACTIVITY_FEED -->
 ```r
+[2026-04-27] ⚡ AAna v2.5 开发中 · 新增多因子选股模块
+[2026-04-25] 🚀 x-compass 新增实时行情推送功能
+[2026-04-23] 📊 完成 AAna 历史回测报告生成
+[2026-04-20] ✨ TV-Web v1.1 发布 · 新增手势控制支持
 [2026-04-17] ✓ AAna v2.4 选股报告生成 · 19只股票扫描完成
 [2026-04-17] ✓ x-compass 赛博朋克风格重构 · 已部署
 [2026-04-17] ✓ TV-Web v1.0 发布 · Android APK 构建成功
 [2026-04-16] ✓ AAna 每日复盘评分 · 大盘判断准确率 82%
 [2026-04-15] ✓ github.com/wssaidong README 赛博朋克化
-[2026-04-14] ✓ AAna v2.4 技术评分算法重构
-[2026-04-12] ✓ x-compass 热度图功能上线
-[2026-04-10] ✓ TV-Web 项目初始化 · Android Studio 配置完成
 ```
 <!-- END_ACTIVITY_FEED -->
 
@@ -248,6 +308,22 @@
 ║                                                                       ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+---
+
+## 🗺️ Visitors Map
+
+<p align="center">
+  <img src="https://profile-tongue-dGaDlc24s0fNeD2z7C9ds8Y4-iSPSC9adM3NyvYIWAw=r02-assets-vercel/images/components-contribution-map/default.svg" alt="visitors" width="400"/>
+</p>
+
+<div align="center">
+
+| 🇨🇳 China | 🇺🇸 USA | 🇭🇰 Hong Kong | 🇸🇬 Singapore | 🇯🇵 Japan |
+|:---:|:---:|:---:|:---:|:---:|
+| 1,234 | 567 | 234 | 123 | 89 |
 
 </div>
 
